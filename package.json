@@ -1,0 +1,24 @@
+{
+  "name": "all-you-can-eat_game",
+  "version": "1.0.0",
+  "description": "This is a simple game that runs on consoles.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taco-nantai/all-you-can-eat_game.git"
+  },
+  "author": "taco-nantai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taco-nantai/all-you-can-eat_game/issues"
+  },
+  "homepage": "https://github.com/taco-nantai/all-you-can-eat_game#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "prettier": "3.2.4"
+  }
+}
