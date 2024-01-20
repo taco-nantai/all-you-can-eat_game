@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { Game } from "./scr/game.js";
 
 function main() {
