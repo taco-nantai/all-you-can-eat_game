@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import { Game } from "./scr/game.js";
+import { Game } from "./src/game.js";
 
 function main() {
   const game = new Game();
